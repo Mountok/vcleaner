@@ -1,0 +1,15 @@
+{
+  "manifest_version": 3,
+  "name": "vCleaner",
+  "version": "1.0",
+  "description": "Убирает ненужные блоки на vc",
+  "icons": {
+    "128": "vcleaner.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://*.vc.ru/*"],
+      "js": ["content.js"]
+    }
+  ]
+}
