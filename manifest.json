@@ -3,6 +3,8 @@
   "name": "vCleaner",
   "version": "1.0",
   "description": "Убирает ненужные блоки на vc",
+  "homepage_url": "https://github.com/Mountok/vcleaner",
+  "privacy_policy": "https://github.com/Mountok/vcleaner/blob/main/PRIVACY.md",
   "icons": {
     "128": "vcleaner.png"
   },
